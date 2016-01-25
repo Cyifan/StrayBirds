@@ -123,7 +123,7 @@ highlighter: pygments
 title: Cyif Blog
 description: 浙江大学 软件工程
 theme: kunka
-disqusname: minixalpha
+disqusname: Cyif
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
