@@ -116,12 +116,12 @@ disqus:
 #################################### global configure #######################################
 
 username: Cyifan
-baseurl: /StrayBirds
+baseurl: /Blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: Cyif Blog
+description: 浙江大学 软件工程
 theme: kunka
 disqusname: minixalpha
 
